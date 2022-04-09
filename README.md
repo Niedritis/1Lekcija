@@ -1,1 +1,2 @@
-# 1Lekcija
+# 1Lekcija#
+*majasdarbs*
